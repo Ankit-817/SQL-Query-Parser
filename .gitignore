@@ -1,0 +1,9 @@
+# Compiled C++ artifacts
+*.exe
+*.o
+*.obj
+*.out
+
+# Build output directories
+build/
+cmake-build-*/
